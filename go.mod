@@ -1,4 +1,4 @@
-module github.com/upbound/upjet-provider-template
+module github.com/ingka-group-digital/provider-solace
 
 go 1.19
 
